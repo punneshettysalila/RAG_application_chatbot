@@ -82,6 +82,15 @@ Then open the local URL shown by Streamlit in your browser.
 5. Type `exit` to close the current chat session.
 6. Use **Reset Conversation** to start over.
 
+
+## OUTPUT:
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/89f93c80-c68b-408e-889e-d3e2b32e4235" />
+
+
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/e7bc7427-ad42-402d-bbfa-30d1ecd08471" />
+
 ## Notes
 
 - Model: `TinyLlama/TinyLlama-1.1B-Chat-v1.0`
