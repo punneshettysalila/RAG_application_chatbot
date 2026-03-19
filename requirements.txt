@@ -1,0 +1,15 @@
+streamlit
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+pypdf
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+bitsandbytes; platform_system != "Windows"
+python-dotenv
+torch
+streamlit==1.42.0
+transformers==4.48.0
+gunicorn
